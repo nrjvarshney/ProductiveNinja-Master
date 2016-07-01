@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Productive Ninja</string>
+    <string name="action_settings">Settings</string>
+    <string name="service">Service</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="category">Category</string>
+    <string name="save">Save</string>
+    <string name="nav_item_analytics">Analytics</string>
+    <string name="nav_item_weather">Weather</string>
+    <!--<string name="nav_item_notes">Notes</string>-->
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_analytics</item>
+        <item>@string/nav_item_weather</item>
+        <!--<item>@string/nav_item_notes</item>-->
+    </string-array>
+
+    <!--<string name="title_notes">Notes</string>-->
+    <string name="title_weather">Weather</string>
+    <string name="title_analytics">Analytics</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="slide_1_title">Productive Ninja</string>
+    <string name="slide_1_desc">Track Productivity (and Distractions) With Productive Ninja. </string>
+
+    <string name="slide_2_title">Let\'s Refocus</string>
+    <string name="slide_2_desc">Track your time and stay focused on your goals.</string>
+
+    <string name="slide_3_title">Make Reminders</string>
+    <string name="slide_3_desc">Get out of mental distractions with a scratchpad that saves things instantly</string>
+
+    <string name="slide_4_title">Weather Forecast</string>
+    <string name="slide_4_desc">Get to know the 7 day forecast of your city and share it with your friends on the go.</string>
+
+    <string name="title_activity_social">SocialActivity</string>
+    <string name="title_activity_media">MediaActivity</string>
+    <string name="title_activity_communication">CommunicationActivity</string>
+    <string name="title_activity_category">Category</string>
+    <string name="title_activity_category_spinner">CategorySpinner</string>
+    <string name="title_activity_create_note">CreateNote</string>
+    <string name="title_activity_see_notes">SeeNotes</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+</resources>
